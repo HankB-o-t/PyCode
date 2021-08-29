@@ -1,5 +1,7 @@
 # Editor for JavaScript Using Python!
 
+#### This editor is the simplest editor in the world( nano is better than this :( )
+
 ## Requeriments:
 - Tktinter
 - tkcode
