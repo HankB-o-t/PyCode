@@ -1,6 +1,7 @@
 # Editor for Python Using Python!
 
-#### This editor is a simple editor (with a text and code version)
+#### This editor is a simple editor with highlighting for only 1 language, python (but you can save files in another languages, like html, js and css, and text files)
+
 
 ## Requeriments:
 - Tktinter
