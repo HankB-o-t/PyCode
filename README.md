@@ -1,6 +1,6 @@
-# Editor for JavaScript Using Python!
+# Editor for Python Using Python!
 
-#### This editor is the simplest editor in the world( nano is better than this :( )
+#### This editor is a simple editor (with a text and code version)
 
 ## Requeriments:
 - Tktinter
@@ -14,4 +14,4 @@ To install tkinter, you need to do `pip install tkinter` and for tkcode you need
 
 And That's it!
 
-yes, is very simple, but it works! (you can't save files :| but you can copy the code and paste it in another editor, or the notepad)
+yes, is very simple, but it works!
