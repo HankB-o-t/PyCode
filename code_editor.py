@@ -4,7 +4,7 @@ from tkinter import font
 from tkinter import filedialog
 from tkinter.constants import BOTTOM, E, END, INSERT, RIGHT, X, Y
 from tkcode import CodeEditor
-code=input("Enter File Name (wihout the .py): ")
+code=input("Enter File Name (without the .py): ")
 
 global open_status_name
 open_status_name = False
